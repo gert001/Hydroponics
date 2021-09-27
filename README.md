@@ -1,5 +1,9 @@
 # Fogponics
 
+usefull links
+ - trees.com
+ - https://dengarden.com/gardening/indoor-hydroponic-garden
+
 Setup Illustration
 
 [<img src="https://www.trees.com/wp-content/uploads/files/inline-images/Fogponics.png">](Fogponics)
