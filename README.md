@@ -2,4 +2,14 @@
 Bart &amp; Gert Hydroponics project.
 
 
-Looking at how to best build out a Hydroponics setup for cheap!
+Type of Hydroponics : **Fogponics**
+
+# Fogponics
+
+Setup Illustration
+
+[<img src="https://www.trees.com/wp-content/uploads/files/inline-images/Fogponics.png">](Fogponics)
+
+
+Recommended Components for starting out:
+
